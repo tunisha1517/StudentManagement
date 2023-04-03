@@ -19,6 +19,7 @@
   -JAVA<br>
   -SQL<br>
   -JAVASCRIPT<br>
+  -CHARTJS<br>
   -JSP<br>
   -SERVLET<br>
   -HTML<br>
